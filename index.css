@@ -57,6 +57,7 @@ h3 {
 }
 h4 {
   font-size: 1.3rem;
+  margin-bottom: 10px;
 }
 
 p {
@@ -97,6 +98,7 @@ ul > li:before {
 .container > div {
   margin-bottom: 100px;
   margin-top: 0;
+  padding-bottom: 50px;
   border-bottom: 1px solid #dcdcdc;
 }
 

@@ -97,6 +97,7 @@ ul > li:before {
 .container > div {
   margin-bottom: 100px;
   margin-top: 0;
+  border-bottom: 1px solid #dcdcdc;
 }
 
 .container > div > h2 {
@@ -123,7 +124,6 @@ ul > li:before {
   display: flex;
   width: 100%;
   padding: 3rem;
-  border-bottom: 1px solid #dcdcdc;
 }
 
 .proejct > .left {

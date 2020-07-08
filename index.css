@@ -131,6 +131,16 @@ ul > li:before {
   width: 40%;
 }
 
+.proejct > .left > h3::before {
+  content: "⦁ ";
+  font-weight: bold;
+  color: #ffb900;
+}
+
+.proejct > .left > span {
+  margin-left: 1.3rem;
+}
+
 .proejct > .right {
   width: 60%;
 }
@@ -174,4 +184,25 @@ ul > li:before {
 .skill > .right {
   width: 60%;
   margin: 1em;
+}
+
+.educations {
+  padding: 10px;
+  width: 100%;
+}
+
+.education {
+  width: 100%;
+  padding: 3rem;
+}
+
+.education > span {
+  display: block;
+  margin-left: 1.3rem;
+}
+
+.education > h3::before {
+  content: "⦁ ";
+  font-weight: bold;
+  color: #ffb900;
 }
